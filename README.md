@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**Silvino-Cardoso/Silvino-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Silvino Cardoso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Olá pessoal 👋
+
+Sou um programador Frontend em formação  :computer:
+
+
+ <br/> :purple_heart: &nbsp; Buscando adquirir e gerar conhecimento 
+ <br/> :blush: &nbsp; Fico feliz em ajudar Javascript, CSS e React (podemos aprender juntos) 
+ <br/> :computer: &nbsp; Desenvolvendo conhecimentos em: HTML, Javascript, CSS, ReactJS e React Native
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-SilvinoCardoso-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvino-cardoso/)](https://www.linkedin.com/in/silvino-cardoso/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-silvino.itp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silvino.itp@gmail.com)](mailto:silvino.itp@gmail.com)
