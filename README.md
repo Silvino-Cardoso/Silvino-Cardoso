@@ -4,7 +4,7 @@
 
 ## Olá pessoal 👋
 
-Sou um programador Frontend em formação  :computer:
+Sou um programador em formação  :computer:
 
 
  <br/> :purple_heart: &nbsp; Buscando adquirir e gerar conhecimento 
